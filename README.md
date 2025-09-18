@@ -1,5 +1,5 @@
 - Hi, I’m @tl012026
-- An NYUSH student / freshman / CSDSE Major
+- An NYUSH student / sophomore / CSDSE Major
 - Contact info: yl13095@nyu.edu
 
 <!---
